@@ -1,0 +1,14 @@
+# Sensitive credentials
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Reports and temporary data
+reports/
+security_audit_report.csv
+
+# Virtual environments
+venv/
+.venv/
